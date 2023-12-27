@@ -6,3 +6,4 @@ Author-email: anandsaurabh6789@gmail.com
 Requires-Dist: pandas
 Requires-Dist: numpy
 Requires-Dist: flask
+Requires-Dist: seaborn
