@@ -1,9 +1,10 @@
-Metadata-Version: 2.1
+Metadata-Version: 1.0
 Name: priceGuessDiamond
 Version: 0.0.1
+Summary: UNKNOWN
+Home-page: UNKNOWN
 Author: saruav anand
 Author-email: anandsaurabh6789@gmail.com
-Requires-Dist: pandas
-Requires-Dist: numpy
-Requires-Dist: flask
-Requires-Dist: seaborn
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
